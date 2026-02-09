@@ -1,1 +1,4 @@
-id,name,category,image,description,enabled,price1,price2,price3,calories,culture,0,'test1','drinks','','This is a description',true,10,20,30,100,en-US,1,'test2','drinks','','This is a description',true,10,20,30,100,en-US,0,'test3','desserts','','This is a description123',true,10,20,30,100,en-US
+id,name,category,image,description,enabled,price1,price2,price3,calories
+0,'test1','drinks','','This is a description',true,10,20,30,100
+1,'test2','drinks','','This is a description',true,10,20,30,100
+2,'test3','desserts','','This is a description123',true,10,20,30,100
