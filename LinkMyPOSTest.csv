@@ -1,4 +1,7 @@
 id,name,category,image,description,enabled,price1,price2,price3,calories
-0,'test1','drinks','','This is a description',true,10,20,30,100
-1,'test2','drinks','','This is a description',true,10,20,30,100
-2,'test3','desserts','','This is a description123',true,10,20,30,100
+0,test1,drinks,,This is a description,true,10,20,30,100
+1,test2,drinks,,This is a description,true,11,21,31,101
+2,test3,drinks,,This is a description123,false,12,22,32,102
+3,test4,desserts,,This is a description123,true,13,23,33,103
+4,test5,desserts,,This is a description123,true,14,24,34,104
+5,test6,desserts,,This is a description123,true,15,25,35,105
