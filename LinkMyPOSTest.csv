@@ -1,8 +1,9 @@
 id,name,category,image,description,enabled,price1,price2,price3,calories
 0,Drink 1,drinks,https://www.bhg.com/thmb/by0CR5Z4gGLnfwd4xLnd925g13g=/1250x0/filters:no_upscale():strip_icc()/RU295956-1d723e82136f4ee384822133868acb9f.jpg,This is a description,true,12030,20,30,100
-1,Drink 2,drinks,https://punchdrink.com/wp-content/uploads/2023/11/Vertical_SoundAndFury.jpg?w=600,This is a description,true,11,21,31,101
+1,Drink 2,drinks,https://punchdrink.com/wp-content/uploads/2023/11/Vertical_SoundAndFury.jpg?w=600,This is a description,true,1100,21,31,101
 2,Drink 3,drinks,https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_3840/v1/dxp-images/brands/products/00043000064764-tropical-punch-artificially-flavored-soft-drink/marketing-view-color-front_content-hub-11386423_f0fa6f9234f9f284278c6c909969f662?_a=BAVMn6ID0,This is a description123,true,12,22,32,102
 3,Dessert 1,desserts,https://foolproofliving.com/wp-content/uploads/2024/12/mont-blanc-dessert-recipe.jpg,This is a description123,true,13,23,33,103
 4,Dessert 2,desserts,https://www.allrecipes.com/thmb/rOSWRQmSwBjWyAnnCVJcpd5xBnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3574694-hot-fudge-ice-cream-bar-dessert-Allrecipes-Magazine-4x3-1-8b0b0580bfb14ae9bb8a9b3acb421ad5.jpg,This is a description123,true,14,24,34,104
 5,Dessert 3,desserts,https://www.errenskitchen.com/wp-content/uploads/2020/02/easy-chocolate-dessert-1-1.jpg,This is a description123,true,15,25,35,105
 5,Dessert 3,desserts,https://beyondfrosting.com/wp-content/uploads/2021/02/Homemade-Chocolate-Truffles-134-1.jpg,This is a description123,true,15,25,35,105
+
